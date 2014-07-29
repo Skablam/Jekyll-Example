@@ -1,0 +1,9 @@
+name: "Jekyll Example"
+description: "A sample project for me to try out Jekyll"
+
+url: "localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
